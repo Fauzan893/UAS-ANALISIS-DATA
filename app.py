@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import io
 import altair as alt
-import matplotlib.pyplot as px
 
 st.set_page_config(page_title="Analisis Produksi Jagung & Kedelai 2015", layout="wide")
 
