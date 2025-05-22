@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import io
 import altair as alt
+import plotly.express as px
+
 
 st.set_page_config(page_title="Analisis Produksi Jagung & Kedelai 2015", layout="wide")
 
